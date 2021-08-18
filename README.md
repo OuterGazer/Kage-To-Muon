@@ -1,12 +1,14 @@
 # Kage-To-Muon
 A 2D tile-based, japanese-themed, platforming game with stealth and action elements, featuring different kinds of shinobi and kunoichi with unique abilities.
 
-Gameplay preview
-
-![Menu_Gameplay](https://user-images.githubusercontent.com/71871620/129703491-830c9fc0-518a-48cd-8e61-d7ae74c315a0.gif)
-
 Deflection ability preview
 ![Kunai Deflection](https://user-images.githubusercontent.com/71871620/129703442-dc4742b0-894d-4498-af4a-9b179e1faa92.gif)
+
+Some design diagrams
+
+![Character Select 1](https://user-images.githubusercontent.com/71871620/129920314-c3c79c51-7cfd-40a4-9f45-a3f26b5b1b1c.png)
+
+![Final Area 3](https://user-images.githubusercontent.com/71871620/129920480-771295ba-fb62-4bdf-a8d1-4faa0f2780fa.png)
 
 This game is based on the Tilevania section of the GameDev.tv Unity 2d course. With around 5 months of Unity experience, this was by far my most ambitious project at the time.
 
